@@ -1,0 +1,17 @@
+Exercitii 3 FC
+
+1. Creati un testbench pentru modulul aritemtic, prezentat in laborator.
+1.1. Modificati modulul aritmetic astfel incat a sa poata lua valori cuprinse in [0;1025] si b in [0;226]. Atentie calculati pe cati biți 
+vor fi iesirile
+1.2. Creati un testbench pentru modulul scris la 1.1 in care sa il testati folosind principii de Positive Test
+2. Creati un modul cu 2 intrari pe 8 biti si o iesire pe 8 biti. Iesirea va fi egala cu maximul dintre cele 2 intrari
+2.1. Creati un testbench pentru modulul creat la punctul 2
+3. Creati un modul cu o intrare pe 16 biti (numita intrare_1) si o intrare pe 4 biti (numita intrare_2). Afisati toate numerele de la 0 
+pana la intrare_1 (exclusiv) ce sunt multipli lui intrare_2. Obs: Pot exista situatii in care nu afisati nimic; nu este necesar crearea 
+unui testbench
+4. Creati un modul cu o intrare, cu valori intre 0 si 255, si o iesire. Iesirea va fi egala cu triplul intrarii. Obs: Gasiti numarul de 
+biti necesari pentru iesire
+4.1. Creati un testbench pentru problema 4 in care sa testati modulul conform cerintei
+5. Creati un modul cu 2 intrari, ambele cu valori intre 0 si 255 si o iesire. Iesirea va fi egala cu produsul celor doua intrari. 
+Obs: Gasiti numarul de biti necesari pentru iesire
+5.1. Creati un testbench pentru problema 5 in care sa testati modulul conform cerintei

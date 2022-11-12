@@ -1,0 +1,12 @@
+Exersare rezolvare erori de compilare
+
+Pentru a va obisnui cu rezolvarea erorilor de compilare, venim in ajutorul vostru cu 6 probleme care au diferite erori de compilare sau 
+design, des intalnite in trecut.
+
+Problema4_tb.v NU are erori de compilare, insa are o eroare de logica (numita "bug"). Incercati sa va dati seama de unde provine eroarea 
+respectiva si sa o rezolvati.
+
+Pentru a adauga fisierele intr-un proiect din Modelsim, faceti urmatorii pasi: Click dreapta -> Add to Project.. -> Existing file -> 
+Selectati fisierul respectiv. (Puteti selecta mai multe fisiere deodata)
+
+Pentru intrebari, stam la dispozitia voastra oricand doriti :)

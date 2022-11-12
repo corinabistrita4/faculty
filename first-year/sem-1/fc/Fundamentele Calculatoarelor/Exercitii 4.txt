@@ -1,0 +1,39 @@
+Exercitii 4 FC 
+
+1. Transformati urmatoarele numere in binar, respectand formatul si numarul de biti dat intre paranteze:
+
+a. 85 (SM, 8 biti)
+
+b. -23 (SM, 6 biti)
+
+c. -23 (SM, 16 biti)
+
+d. 77 (C1, 8 biti)
+
+e. -77 (C1, 10 biti)
+
+f. 73 (C2, 8 biti)
+
+g. -74 (C2, 8 biti)
+
+h. -1 (C2, 16 biti)
+
+i. -1 (C2, 128 biti)
+
+j. 127 (C2, 8 biti)
+
+2. Creati un modul cu o intrare pe 16 biti (nr. natural) si o iesire pe 8 bit (nr. natural). Iesirea va fi egala cu cel mai mare 
+byte/octet de la intrare (cel mai semnificativ vs cel mai putin semnificativi).
+
+3. Creati un modul cu o intrare pe 8 biti (C2) si o iesire pe 1 bit. Iesirea va fi egala cu 1 daca intrarea e negativa, 0 altfel. 
+Intrarea este reprezentata in complement de 2
+
+4. Creati un modul cu o intrare pe 32 de biti (nr. natural) si o iesire pe 8 biti (C2). Iesirea va fi egala cu secventa de biti cu 
+valoarea cea mai mare din intrare reprezentata in C2.
+
+5. Creati un modul cu 2 intrari pe 16 biti (nr. natural) si o iesire pe 32 de biti (C2). Iesirea va fi egala cu cea mai mare valoare 
+alcatuita din concatenarea celor doua intrari, reprezentata in C2. Ex: in_1 = 0 (0x0000), in_2 = 65535 (0xFFFF). Iesirea va fi egala cu 
+0x0000FFFF ({in_1, in_2}) deoarece 0x0000FFFF = 65535 (C2), pe cand 0xFFFF0000 = -65536
+
+6. Creati un modul cu o intrare pe 8 biti (SM) si o iesire pe 32 de biti (SM). Iesirea va fi egala cu extinderea intrarii pe 32 de biti,
+ pastrand formatul SM
